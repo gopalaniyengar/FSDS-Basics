@@ -5,3 +5,5 @@ requirements.txt is a list of requirements for the .py files to run.
 main.py contains basic state information and how to connect the client.
 
 The rest of the files are aimed towards a specific sensor interaction, and example.png is a color image taken through camera.py
+
+Check this documentation for more: https://docs.google.com/document/d/1dOgIIlQ0pxiOIGPYk6aPzsd6y8RTuNkQD7GMZ3PUeZc/edit?usp=sharing
